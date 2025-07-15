@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=55AD9B&height=120&section=header"/>
+
 # ☕︎︎ Projeto - Jogo da Vida em Java - Versão Adaptada
 
 Uma releitura do clássico **Jogo da Vida** de John Horton Conway, programada em **Java**, com múltiplos tipos de células e comportamentos customizados. O projeto explora os princípios da **Programação Orientada a Objetos (POO)** de forma prática, didática e interativa.
@@ -137,3 +139,6 @@ Desenvolvido por:
 1. Clone o repositório para o seu computador:
    ```bash
    git clone https://github.com/MariaCampanaP/Jogo-da-Vida-em-Java-Primeiro-Bimestre.git
+   ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=55AD9B&height=120&section=footer"/>
+
