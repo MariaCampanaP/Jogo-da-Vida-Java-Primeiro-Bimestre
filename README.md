@@ -137,6 +137,7 @@ Desenvolvido por:
 ## ☕︎︎ Como Usar 
 
 1. Clone o repositório para o seu computador:
+   
    ```bash
    git clone https://github.com/MariaCampanaP/Jogo-da-Vida-em-Java-Primeiro-Bimestre.git
    ```
