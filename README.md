@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=02F9F2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=023fa1&section=header"/>
 
 # ☕︎︎ Projeto - Jogo da Vida em Java - Versão Adaptada
 
@@ -141,5 +141,5 @@ Desenvolvido por:
    ```bash
    git clone https://github.com/MariaCampanaP/Jogo-da-Vida-em-Java-Primeiro-Bimestre.git
    ```
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=02F9F2&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=023fa1&section=footer"/>
 
