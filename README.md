@@ -117,11 +117,7 @@ Cada célula é representada por um caractere:
 ## ☕︎︎ Sobre o Trabalho e seus Objetivos de Aprendizado
 - **Sobre:**
   - Este projeto foi desenvolvido como **trabalho em trio** para a disciplina de **Programação Orientada a Objetos** no curso de graduação de **Ciência da Computação** da **UNESPAR (Universidade Estadual do Paraná)**.
-- **Objetivos**:
-  - Praticar **Encapsulamento**, **Herança**, **Polimorfismo** e **Abstração**;
-  - Implementar sistemas modulares e extensíveis;
-  - Aplicar POO em um projeto funcional e interativo;
-  - Compreender regras de vizinhança e estados em autômatos celulares.
+- **
  
 ## ☕︎︎ Tecnologias Utilizadas 
 - Netbeans.
